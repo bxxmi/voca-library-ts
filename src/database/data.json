@@ -9,24 +9,28 @@
       "id": 1,
       "day": 1,
       "eng": "book",
-      "isDone": false
+      "kor": "책",
+      "isDone": true
     },
     {
       "id": 2,
       "day": 2,
-      "eng": "book",
-      "isDone": false
+      "eng": "student",
+      "kor": "학생",
+      "isDone": true
     },
     {
       "id": 3,
       "day": 2,
-      "eng": "book",
+      "eng": "school",
+      "kor": "학교",
       "isDone": false
     },
     {
       "id": 4,
       "day": 3,
-      "eng": "book",
+      "eng": "teacher",
+      "kor": "선생님",
       "isDone": false
     }
   ]
