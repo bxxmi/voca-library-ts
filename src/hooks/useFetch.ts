@@ -1,7 +1,7 @@
 // 커스텀 훅으로 fetch 함수 분리
 import { useState, useEffect } from "react";
 
-export default function useFetch(url) {
+export default function useFetch(url: string) {
   const [data, setData] = useState([]);
 
   useEffect(() => {
